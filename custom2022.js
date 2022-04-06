@@ -1,4 +1,4 @@
-
+console.log("This is a text from thirdpary link.");
 var body = document.getElementsByTagName('body')[0];
 if (window.location.pathname == "/") {
      body.classList.add('homepage');
