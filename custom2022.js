@@ -8,7 +8,7 @@ if (window.location.pathname == "/") {
      body.classList.remove('homepage');
 }
 
-var tabsBottomWrapper = document.querySelector("#tabsBottomWrapper ._2y6x93");
+var tabsBottomWrapper = document.querySelector("#tabsBottomWrapper .ProductPage---freeInterestText---2y6x9");
 var minicartContent = document.querySelector("#minicartContent + ._1x9W3_ h2.GX53aF");
 
 if (tabsBottomWrapper) {
